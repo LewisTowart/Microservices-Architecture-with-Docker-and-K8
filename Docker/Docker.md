@@ -163,7 +163,7 @@ docker run -p 3000:3000 lewistowart/nodejs-app
 
 To exit this once you have check localhost:3000 to see if the app is working use ctrl C
 
-# Step 6.
+# Step 7.
 
 Now we can push our new image to my Dockerhub account using the below command.
 
